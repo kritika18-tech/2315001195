@@ -1,0 +1,23 @@
+
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware for AffordMed assessment",
+  "main": "logger.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node example.js",
+    "test": "node example.js"
+  },
+  "keywords": [
+    "logging",
+    "middleware",
+    "affordmed"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1"
+  }
+}
